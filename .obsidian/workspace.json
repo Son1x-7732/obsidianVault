@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "a432e6b4025a41eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "77a68fbf82c95c29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d932997fb1cf7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cpp Qt/07 - Main Window.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 - Main Window"
+            }
+          },
+          {
+            "id": "edecb6284c3429ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cpp Qt/08 - Program Startup Flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 - Program Startup Flow"
+            }
+          },
+          {
+            "id": "eeb2d3f8661f36ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Android/Things to Delete.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things to Delete"
+            }
+          },
+          {
+            "id": "893457696a303e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SecureBoot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SecureBoot"
+            }
+          },
+          {
+            "id": "94ff9ca5403f5614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Android/Things to Delete.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things to Delete"
+            }
+          },
+          {
+            "id": "359b4df4f291cb88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Android/Things to Delete.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things to Delete"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72ddea357b7d0758",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e001e1b6ba11a97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b94a33d77ab1ad14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "18a310896513b85e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "33d69131103f0f4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55e572a5e617c491",
+    "type": "split",
+    "children": [
+      {
+        "id": "9270716fdb1045d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9e997dda27ac280",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05-Android/Things to Delete.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "269765656998a08a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03-Linux/Config/Niri.kdl.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Niri.kdl"
+            }
+          },
+          {
+            "id": "35408b32c5bf994f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9862a515bd562f74",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ec461ae77fd0c65c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05-Android/Things to Delete.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "359b4df4f291cb88",
+  "lastOpenFiles": [
+    "Rag-Search-Model.md",
+    "05-Android/Things to Delete.md",
+    "ResumePrompt.md",
+    "SecureBoot.md",
+    "git boot.dev.md",
+    "00-Inbox/Infy.md",
+    "03-Linux/Niri convinience.md",
+    "Exp2.md",
+    "niri.kdl.md",
+    "ly config.md",
+    "ly old config.md",
+    "03-Linux/Commands/Shell Aliases.md",
+    "03-Linux/Config/fuzzel.ini.md",
+    "03-Linux/Arch Setup.md",
+    "03-Linux/Docker.md",
+    "03-Linux/Experiment.md",
+    "03-Linux/fontconfig.md",
+    "03-Linux/Setup.md",
+    "Develeopment Journal/Day 01.md",
+    "Untitled 1.md",
+    "BootDev/Git.md",
+    "BootDev",
+    "05-Android/Android Setup.md",
+    "03-Linux/Issues/Secure Boot.md",
+    "00-Inbox/tensorflow.md",
+    "00-Inbox/djikstra.md",
+    "03-Linux/Config/niri.kdl.md",
+    "Develeopment Journal",
+    "Cpp Qt"
+  ]
+}

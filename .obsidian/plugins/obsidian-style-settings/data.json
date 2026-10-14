@@ -1,0 +1,15 @@
+{
+  "Components@@CTA-BTN-enable": true,
+  "Components@@file-names-untrim": false,
+  "Components@@folder-font-bold": true,
+  "Components@@colorful-folder": true,
+  "Components@@outline-enhanced": true,
+  "Components@@scrollbar-hide": true,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-brighter",
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "Appearance-light@@accent-color-override-light": false,
+  "Components@@status-bar-autohide": false,
+  "Editor@@line-hover-indicator": false,
+  "Editor@@border-focus-mode": false
+}

@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Border",
+  "interfaceFontFamily": "Fira Sans",
+  "textFontFamily": "SpaceMono Nerd Font Mono",
+  "showRibbon": false,
+  "monospaceFontFamily": "MartianMono Nerd Font",
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "noctalia"
+  ]
+}
